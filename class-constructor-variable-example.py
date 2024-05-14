@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 11 21:44:43 2018
-
-@author: user
-"""
 
 class Calisan:
     
